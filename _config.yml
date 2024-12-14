@@ -9,6 +9,7 @@ description: >-
   Go ahead! Explore my journey and see how far I grown!
 baseurl: "" 
 url: "https:/madeem-delvi.github.io" 
+permalink: /:categories/:title/
 twitter_username: 
 github_username: madeem-delvi 
 
